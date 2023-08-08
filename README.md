@@ -9,7 +9,7 @@ Osteosynthesis is an operation in orthopedics where internal fixator are surgica
 
 <img src="./img/tibia_plate_medial.jpg" alt="tibia_plate_model_medial" width="300" height="400"/>
 Medial (up) and frontolateral (below) view.
-<img src="./img/tibia_plate_frontolateral.jpg" alt="tibia_plate_model_frontolateral" width="300" height="240"/>
+<img src="./img/tibia_plate_frontolateral.JPG" alt="tibia_plate_model_frontolateral" width="300" height="240"/>
 
 2) Implementation of forces in Ansys:
 
@@ -24,10 +24,10 @@ for
 - anterior cruciate ligament (ACL) 
 - posterior cruciate ligament (PCL)
 
-![tibia_forces](img/forces.jpg)
+<img src="./img/forces.jpg" alt="tibia_forces" width="700" height="400"/>
 
 3) FEM analysis for material comparison in [Ansys](https://www.ansys.com/): von Mises stress on tibial plate and screws made of either titanium alloy or stainless steel
 
-![fem_stainless_steel](img/stainless_steel.jpg)
+<img src="./img/stainless_steel.jpg" alt="fem_stainless_steel" width="700" height="400"/>
 
-![fem_titanium_alloy](img/titanium_alloy.jpg)
+<img src="./img/titanium_alloy.jpg" alt="fem_titanium_alloy" width="700" height="400"/>
