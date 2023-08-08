@@ -8,7 +8,7 @@ Osteosynthesis is an operation in orthopedics where internal fixator are surgica
 1) Creating a 3D model of a tibial plate in Blender
 
 <img src="./img/tibia_plate_medial.jpg" alt="tibia_plate_model_medial" width="300" height="400"/>
-
+Medial (up) and frontolateral (below) view.
 <img src="./img/tibia_plate_frontolateral.jpg" alt="tibia_plate_model_frontolateral" width="300" height="240"/>
 
 2) Implementation of forces in Ansys:
