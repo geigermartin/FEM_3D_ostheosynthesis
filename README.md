@@ -7,9 +7,9 @@ Osteosynthesis is an operation in orthopedics where internal fixator are surgica
 
 1) Creating a 3D model of a tibial plate in Blender
 
-![tibia_plate_model_medial](img/tibia_plate_medial.jpg)
+<img src="./img/tibia_plate_medial.jpg" alt="tibia_plate_model_medial" width="300" height="400"/>
 
-![tibia_plate_model_ frontolateral](img/tibia_plate_frontolateral.jpg)
+<img src="./img/tibia_plate_frontolateral.jpg" alt="tibia_plate_model_frontolateral" width="300" height="240"/>
 
 2) Implementation of forces in Ansys:
 
@@ -26,7 +26,7 @@ for
 
 ![tibia_forces](img/forces.jpg)
 
-3) FEM analysis for material comparison in Ansys: von Mises stress on tibial plate and screws made of either titanium alloy or stainless steel
+3) FEM analysis for material comparison in [Ansys](https://www.ansys.com/): von Mises stress on tibial plate and screws made of either titanium alloy or stainless steel
 
 ![fem_stainless_steel](img/stainless_steel.jpg)
 
